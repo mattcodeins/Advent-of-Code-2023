@@ -66,8 +66,6 @@ if REAL:
 else:
     grid[s[0]][s[1]] = "F"
 
-
-
 total = 0
 for i, line in enumerate(grid):
     inside = False
